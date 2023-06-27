@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://nivaangupta.github.io/](https://nivaangupta.github.io/)
 
-- ⚡ Fun fact **I am good at psychoanalysis**
+- ⚡ Fun fact **I once ate 2 pies of large pizza in one seating**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
