@@ -4,10 +4,6 @@
 <br>
 <img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/CuuSHzuc0O166MRfjt/200w.webp?cid=ecf05e47ljsui6w6f8rqpgoj7hd46wc2dwk7e4ztwfrvfu45&ep=v1_gifs_search&rid=200w.webp&ct=g">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nivaangupta" alt="nivaangupta" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nivaan19" target="blank"><img src="https://img.shields.io/twitter/follow/nivaan19?logo=twitter&style=for-the-badge" alt="nivaan19" /></a> </p>
-
 - 🔭 I’m currently working on **Mood-recogniser Bot**
 
 - 🌱 I’m currently learning **React, Amazon Web Services & Spanish**
