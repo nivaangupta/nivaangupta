@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **nng8603@nyu.edu**
 
-- 📄 Know about my experiences (nivaangupta.github.io)
+- 📄 Know about my experiences [nivaangupta.github.io](nivaangupta.github.io)
 
 - ⚡ Fun fact **I am good at psychoanalysis**
 
