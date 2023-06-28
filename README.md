@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Mood-recogniser Bot**
 
-- 🌱 I’m currently learning **React, Amazon Web Services & Spanish**
+- 🌱 I’m currently learning **React & Spanish**
 
-- 💬 Ask me about **Python, Data Structure Algorithms**
+- 💬 Ask me about **Python, Data Structure Algorithms, Amazon Web Services**
 
 - 📫 How to reach me **nng8603@nyu.edu**
 
