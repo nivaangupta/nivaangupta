@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Mood-recogniser Bot**
 
-- 🌱 I’m currently learning **React & Spanish**
+- 🌱 I’m currently learning **React.js, C# & Spanish**
 
 - 💬 Ask me about **Python, Data Structure Algorithms, Amazon Web Services**
 
