@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://nivaangupta.github.io/](https://nivaangupta.github.io/)
 
-- ⚡ Fun fact **I can eat 3 pies of large pizza in 1 seating**
+- ⚡ Fun fact **I hit the gym 3 times a week**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
