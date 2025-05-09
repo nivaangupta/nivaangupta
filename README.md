@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **Python, Data Structure Algorithms, Amazon Web Services**
 
-- 📫 How to reach me **nng8603@nyu.edu**
-
 - 📄 Know about my experiences [https://nivaangupta.github.io/](https://nivaangupta.github.io/)
 
 - ⚡ Fun fact **I hit the gym 3 times a week**
