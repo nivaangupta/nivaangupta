@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nivaan Gupta</h1>
 <h3 align="center">🚀 I love turning ideas into reality through code.</h3>
 <br>
-<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/CuuSHzuc0O166MRfjt/200w.webp?cid=ecf05e47ljsui6w6f8rqpgoj7hd46wc2dwk7e4ztwfrvfu45&ep=v1_gifs_search&rid=200w.webp&ct=g">
+
 
 - 🔭 I’m currently working on **Mood-recogniser Bot**
 
