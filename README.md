@@ -3,7 +3,8 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
+<center>
 <p align="left">
-<a href="https://twitter.com/nivaan19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nivaan19" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nivaangupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/nivaangupta" height="30" width="40" /></a>
+<a href="https://guptanivaan.com" target="blank">https://guptanivaan.com</a>
 </p>
+</center>
