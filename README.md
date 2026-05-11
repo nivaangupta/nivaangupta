@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nivaan Gupta</h1>
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<center>
-<p align="left">
+
+<p align="center">
 <a href="https://guptanivaan.com" target="blank">https://guptanivaan.com</a>
 </p>
-</center>
