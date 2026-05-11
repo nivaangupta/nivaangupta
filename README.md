@@ -4,5 +4,5 @@
 
 
 <p align="center">
-<a href="https://guptanivaan.com" target="blank">https://guptanivaan.com</a>
+<a href="https://guptanivaan.com" target="blank">Website</a>
 </p>
